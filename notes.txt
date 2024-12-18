@@ -1,0 +1,5 @@
+colors will be used in the website
+
+ Midnight blue #191970, royal blue #4169E1, & burgundy red
+ #800020
+ Seafoam green #93E9BE & light blue #ADD8E6
